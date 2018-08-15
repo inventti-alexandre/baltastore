@@ -1,0 +1,11 @@
+D:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csprojAssemblyReference.cache
+D:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+D:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfoInputs.cache
+D:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
+D:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.deps.json
+D:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.json
+D:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.dev.json
+D:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.dll
+D:\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+D:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
+D:\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb
