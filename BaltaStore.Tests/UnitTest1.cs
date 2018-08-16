@@ -17,6 +17,8 @@ namespace BaltaStore.Tests
                 "leonardostudent@gmail.com",
                 "4243213187",
                 "casa rua 20");
+
+            var order = new Order(customer);
         }
     }
 }
